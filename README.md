@@ -6,7 +6,7 @@
 # <div align="center">I'm Benyamin Siregar</div>  
   
 
-- 🧑‍💻I am a passionate Front-Dev from Indonesia, who is constanly thirsting for knowledge and technology for learning something new  
+- 🧑‍💻I am a passionate Front-Dev from Indonesia, who is constanly thirsting for knowledge and technology for learning something
   
 
 - ✍️ I’m currently student on Universitas Terbuka  
