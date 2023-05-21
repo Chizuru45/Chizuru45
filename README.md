@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Javacript, Nodejs, Reactjs and Figma  
   
 
-- 😴 I am a sleepy person  
+- 😴 I am a friendly person
   
 
 <br/>  
