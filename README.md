@@ -12,7 +12,7 @@
 - ✍️ I’m currently student on Universitas Terbuka  
   
 
-- 🌱 I’m currently learning Javacript, Nodejs, Reactjs, Cloud Computing, Figma and how to be Techical Writer.  
+- 🌱 I’m currently learning Javacript, Nodejs, Reactjs, Cloud Computing, Cyber Security and how to be Techical Writer.  
   
 
 - 😴 I am a friendly person
